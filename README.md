@@ -1,7 +1,4 @@
-Test
+Hello world.
 ====
-This is a test.
 
-Okay.
-
-Adding some stuff.
+There really isn't anything here.
